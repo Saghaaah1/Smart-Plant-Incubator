@@ -89,7 +89,7 @@ It is powered by an **Arduino Uno**, uses basic electronics components, and prov
 - If **reservoir is full**, system drains water via valve  
 - Fan runs continuously via external power
 
-## 📸 Project Photos
+## Project Photos
 
 ### System Overview
 ![Overview](images/overview.png)
