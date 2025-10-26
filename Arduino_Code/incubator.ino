@@ -1,5 +1,5 @@
 /*
-  🌱 Smart Plant Incubator
+  Smart Plant Incubator
   Author: Sara El Bari
   University of Western Brittany, 2022
 
