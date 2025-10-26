@@ -1,7 +1,8 @@
 # Smart Plant Incubator
 
 **Author:** Sara El Bari  
-**Academic Level:** 2nd year Bachelor at Western Brittany University (UBO)
+**University:** Western Brittany University (UBO)
+**Academic Year:** 2022 – 2023, 2nd year of Bachelor of Degree
 
 >> A smart, self-regulating plant incubator capable of monitoring and maintaining optimal environmental conditions for plant growth.  
 It measures **temperature**, **humidity**, **soil moisture**, and **water tank level**, and automatically manages **watering**, **drainage**, and **alerts**.
