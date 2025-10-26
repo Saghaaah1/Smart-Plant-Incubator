@@ -125,12 +125,12 @@ It is powered by an **Arduino Uno**, uses basic electronics components, and prov
 - Data logging (SD or cloud)  
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Sara (2025)**  
 [GitHub Profile](https://github.com/Saghaaah1)
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the [MIT License](LICENSE).
