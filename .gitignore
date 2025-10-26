@@ -1,0 +1,10 @@
+# Arduino build files
+*.hex
+*.elf
+*.bin
+*.cpp
+*.o
+*.d
+*.DS_Store
+__MACOSX/
+build/
