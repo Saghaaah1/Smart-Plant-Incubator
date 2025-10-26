@@ -1,9 +1,11 @@
 # Smart Plant Incubator
 
 **Author:** Sara El Bari  
-**Academic Level:**, 2nd year Bachelor at Western Brittany University (UBO)
+**Academic Level:** 2nd year Bachelor at Western Brittany University (UBO)
 
->> A fully automated smart plant incubator prototype using low-cost sensors and Arduino-based logic to monitor and care for indoor plants like *Pilea peperomioides*.
+>> A smart, self-regulating plant incubator capable of monitoring and maintaining optimal environmental conditions for plant growth.  
+It measures **temperature**, **humidity**, **soil moisture**, and **water tank level**, and automatically manages **watering**, **drainage**, and **alerts**.
+Using low-cost sensors and Arduino-based logic to monitor and care for indoor plants like *Pilea peperomioides*.
 ---
 
 ## Overview:
@@ -104,6 +106,7 @@ It is powered by an **Arduino Uno**, uses basic electronics components, and prov
 ### Water Valve Control System
 ![Valve Control](images/valve_control.png)
 
+
 > Solenoid valve connected to external power via a 5V relay, triggered by the Arduino Uno.
 
 ---
@@ -118,5 +121,15 @@ It is powered by an **Arduino Uno**, uses basic electronics components, and prov
 - Functional prototype  
 - Could be extended with Wi-Fi or app control using ESP32  
 - Future version may include ML-based moisture prediction
+- Data logging (SD or cloud)  
 ---
 
+## 👩‍💻 Author
+
+**Sara (2025)**  
+[GitHub Profile](https://github.com/Saghaaah1)
+
+---
+
+## 📜 License
+This project is licensed under the [MIT License](LICENSE).
